@@ -10,7 +10,6 @@ Aplikasi berita dari API TheNewsAPI
 
 referensi flutter hive https://www.youtube.com/watch?v=4nXD2m5LeXw
 
-screenshoot aplikasi
  ![](images/image2.jpeg)
  ![](images/image1.jpeg)   
    
